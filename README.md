@@ -1,17 +1,27 @@
-Task-01
-• Collect the data of Dependent variable (assigned to your group) and Independent Variables
-(keeping in mind literature review).
-• Collect the data of variables from some authentic Source like WDI, IFS, PBS, SBP etc.
-Task-02
-Discuss Summary Statistics (Mean, Median, Mode, Quartiles) of each variable included in the
-Model using R output of summary statistics.
-Task-03
-• Construct Box and Whisker Plots for all the variables in one diagram with different colors and
-identify outliers if any.
-Task-04
-• Construct Scatter Plot for all the variables on one grid. And interpret each part of the grid
-separately
-Task-05
-• There should be at least five independent variables (at least 35 observations) in the model.
-• We shall consider only two countries for Inflation Forecasting i.e. Pakistan and USA
-For Pakistan run the following models ARIMA, Ridge, LASSO and Elastic Net
+Inflation Forecasting in  Pakistan 
+
+
+This project aims to forecast inflation using advanced statistical and machine learning models, focusing on Pakistan and comparing with USA data. The tasks are structured as follows:
+
+ Task 01: Data Collection
+Collected data for the dependent variable (Inflation) and five independent variables based on literature review. Data sources include World Development Indicators (WDI), International Financial Statistics (IFS), Pakistan Bureau of Statistics (PBS), and State Bank of Pakistan (SBP).
+
+ Task 02: Summary Statistics
+Used R to compute and discuss summary statistics (Mean, Median, Mode, Quartiles) for all variables included in the model.
+
+ Task 03: Box and Whisker Plots
+Constructed boxplots for all variables in one diagram using different colors. Identified and interpreted any outliers in the dataset.
+
+ Task 04: Scatter Plot Matrix
+Created a scatter plot matrix of all variables on one grid. Each part of the grid is interpreted to understand relationships between variables.
+
+ Task 05: Model Implementation
+For Pakistan, implemented and compared the following models:
+
+ARIMA (for time series forecasting)
+
+Ridge Regression
+
+Lasso Regression
+
+Elastic Net Regression
